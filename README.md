@@ -5,6 +5,6 @@
 - 💞️ I’m looking to collaborate on any programming project.
 - 📫 Contact me via +254716099252
 
-<!---
-Brian Paskal is Web Developer, Software Developer who is good in Frontend Development, Python Programming, C++ Programming, PHP, Javascript and many more.
---->
+
+Brian Paskal is Web Developer.
+
